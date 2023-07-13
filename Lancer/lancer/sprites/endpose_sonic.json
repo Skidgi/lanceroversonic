@@ -1,0 +1,4 @@
+{
+	"endpose_sonic_0x00": { "File": "character_sonic.bmp", "Rect": "514,628,34,36", "Center": "19,15" },
+	"endpose_sonic_0x01": { "File": "endpose_sonic.bmp", "Rect": "64,8,88,128", "Center": "44,64" }
+}

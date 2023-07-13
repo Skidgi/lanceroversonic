@@ -1,0 +1,7 @@
+{
+	// Sonic super peel-out sprites
+	"sonic_peelout_0": { "File": "character_sonic.bmp", "Rect": "514,628,34,36", "Center": "19,15" },
+	"sonic_peelout_1": { "File": "character_sonic.bmp", "Rect": "514,628,34,36", "Center": "19,15" },
+	"sonic_peelout_2": { "File": "character_sonic.bmp", "Rect": "514,628,34,36", "Center": "19,15" },
+	"sonic_peelout_3": { "File": "character_sonic.bmp", "Rect": "514,628,34,36", "Center": "19,15" }
+}
